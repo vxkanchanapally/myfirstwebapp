@@ -1,0 +1,1 @@
+# SampleDotNetCore6App
