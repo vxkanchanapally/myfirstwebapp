@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'cdevfirstwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78AA113021E0453191EB504A5312CA70 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_46DF03A58B7148A3AF5FDFD4EEDCAEE5 }}
           package: .
